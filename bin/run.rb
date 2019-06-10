@@ -1,1 +1,1 @@
-require_relative '..c/onfig/environment'
+require_relative '../config/environment'
